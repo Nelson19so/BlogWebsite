@@ -13,8 +13,8 @@ download project and create a root folder and copy - paste to the root folder be
 Etraction of this file should be in the root folder before extracting
 
 # Link to the portfolio
-Link to the template: https://nelson19so.github.io/ProjectTwoTrainig/
-Link to te respository: https://github.com/Nelson19so/ProjectTwoTrainig/
+Link to visit this template: https://nelson19so.github.io/ProjectTwoTrainig/
+Link to this project respository: https://github.com/Nelson19so/ProjectTwoTrainig/
 
 # Bear in mind:
 that this project has some personal details installed added in it, such as:
