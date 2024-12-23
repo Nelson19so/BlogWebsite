@@ -2,9 +2,9 @@
 Simple blog Website
 
 # Programming Languages involved
-1. HTML
-2. CSS
-3. JAVASCRIPT
+1. HTML,
+2. CSS,
+3. JAVASCRIPT.
 
 # Tip to use this respositroy
 download project and create a root folder and copy - paste to the root folder before extraction, 
